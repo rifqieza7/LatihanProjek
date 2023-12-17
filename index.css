@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+
+.image-poster{
+    width: 250px;
+}
+
+.poster-caption{
+    margin-left: 15px;
+    color: white;
+}
+
+.all-poster{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 700px;
+    background-color: black;
+}
